@@ -1,28 +1,76 @@
 {
     "bg": "https://wallup.net/wp-content/uploads/2017/11/23/496879-Jojo-JoJos_Bizarre_Adventure-Jotaro_Kujo.jpg",
-    "title": "Quiz CSS da Alura",
-    "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+    "title": "Jojo Bizarre Adventure Quiz",
+    "description": "Teste os seus conhecimentos sobre Jojo",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
-        "description": "Essa é pra aquecer",
-        "answer": 2,
+        "image": "https://i.pinimg.com/originals/a5/c4/d2/a5c4d221225b0f57a38274cc5ca42f3d.gif",
+        "title": "Qual a graduação de Jonathan Joestar?",
+        "description": "Sun Light Yellow Overdrive",
+        "answer": 1,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+           "Direto",
+           "Medicina",
+           "Arqueologia",
+           "Nenhuma"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
+        "image": "https://38.media.tumblr.com/813c3abcf184bd377f8a051c25487ac2/tumblr_no861iLdBk1sfay15o7_500.gif",
+        "title": "Qual mão Joseph Joestar perdeu ao final de Battle Tendency?",
+        "description": "Nigerundayo",
+        "answer": 1,
+        "alternatives": [
+           "Esquerda",
+           "Direita",
+           "Nenhuma"
+        ]
+      },
+      {
+        "image": "https://steamuserimages-a.akamaihd.net/ugc/788539568421300153/199D2D7E6545A44C4D52E35B2CE89C68C36893A7/",
+        "title": "Qual stand é do mesmo tipo do Star Platinum?",
+        "description": "Oh are you approching me?",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "The World",
+           "The Fool",
+           "Tusk",
+           "The Wonder of U"
+        ]
+      },
+      {
+        "image": "https://media1.tenor.com/images/06809fd85a70a10fbc782cdf34658a77/tenor.gif?itemid=16070594",
+        "title": "Quem foi o personagem que teve seu logar por Yoshikage Kira?",
+        "description": "Why is Heart Attack taking so long?",
+        "answer": 3,
+        "alternatives": [
+           "Hayato Kawajiri",
+           "Koichi Hirose",
+           "Rohan Kishibe",
+           "Kosaku Kawajiri"
+        ]
+      },
+      {
+        "image": "https://i.pinimg.com/originals/f1/1c/37/f11c379eb631092b27f02dc1b32357a2.gif",
+        "title": "Quem é o pai de Giorno Giovanna?",
+        "description": "Buongiorno",
+        "answer": 2,
+        "alternatives": [
+          "Dio",
+          "Jonathan",
+          "Todos acima"
+        ]
+      },
+      {
+        "image": "https://media1.tenor.com/images/7fe88c027637c4932859e670bdcf3832/tenor.gif?itemid=13970666",
+        "title": "Qual banda referenciada no stand de Risotto Nero",
+        "description": "Buongiorno",
+        "answer": 2,
+        "alternatives": [
+          "Pink Floyd",
+          "Prince",
+          "Aerosmith",
+          "Metallica"
         ]
       }
     ],

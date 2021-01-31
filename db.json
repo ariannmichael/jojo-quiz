@@ -7,7 +7,7 @@
         "image": "https://i.pinimg.com/originals/a5/c4/d2/a5c4d221225b0f57a38274cc5ca42f3d.gif",
         "title": "Qual a graduação de Jonathan Joestar?",
         "description": "Sun Light Yellow Overdrive",
-        "answer": 1,
+        "answer": 2,
         "alternatives": [
            "Direto",
            "Medicina",
@@ -40,7 +40,7 @@
       },
       {
         "image": "https://media1.tenor.com/images/06809fd85a70a10fbc782cdf34658a77/tenor.gif?itemid=16070594",
-        "title": "Quem foi o personagem que teve seu logar por Yoshikage Kira?",
+        "title": "Quem foi o personagem que teve seu lugar tomado por Yoshikage Kira?",
         "description": "Why is Heart Attack taking so long?",
         "answer": 3,
         "alternatives": [
@@ -48,6 +48,18 @@
            "Koichi Hirose",
            "Rohan Kishibe",
            "Kosaku Kawajiri"
+        ]
+      },
+      {
+        "image": "https://pa1.narvii.com/6348/3bf4bf207858b0b2fbd6b712043ec72ecdcf7807_hq.gif",
+        "title": "Qual stand persegue Josuke por Morioh?",
+        "description": "",
+        "answer": 0,
+        "alternatives": [
+           "Highway Star",
+           "Enigma",
+           "Boy II Man",
+           "Superfly"
         ]
       },
       {
@@ -63,14 +75,26 @@
       },
       {
         "image": "https://media1.tenor.com/images/7fe88c027637c4932859e670bdcf3832/tenor.gif?itemid=13970666",
-        "title": "Qual banda referenciada no stand de Risotto Nero",
-        "description": "Buongiorno",
-        "answer": 2,
+        "title": "Qual banda é referenciada no stand de Risotto Nero",
+        "description": "",
+        "answer": 3,
         "alternatives": [
           "Pink Floyd",
           "Prince",
           "Aerosmith",
           "Metallica"
+        ]
+      },
+      {
+        "image": "https://steamuserimages-a.akamaihd.net/ugc/919168520697975096/C86669320A20A826220A0CC4DCCCF74EF173B9D5/",
+        "title": "Atualmente JOJO está em qual parte no mangá?",
+        "description": "",
+        "answer": 2,
+        "alternatives": [
+          "6",
+          "7",
+          "8",
+          "9"
         ]
       }
     ],

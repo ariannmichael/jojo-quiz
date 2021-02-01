@@ -88,7 +88,7 @@ export default function Home() {
             </ul>
           </Widget.Content>
         </Widget>
-        <Footer 
+        <Footer
           as={motion.section}
           transition={{ delay: 0.5, durantion: 0.5 }}
           variants={{
